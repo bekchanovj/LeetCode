@@ -1,0 +1,6 @@
+﻿  888. Fair Candy Swap.cpp
+C:\Users\Jakhongir\Documents\0.LeetCode\888. Fair Candy Swap\888. Fair Candy Swap\888. Fair Candy Swap.cpp(31,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jakhongir\Documents\0.LeetCode\888. Fair Candy Swap\888. Fair Candy Swap\888. Fair Candy Swap.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jakhongir\Documents\0.LeetCode\888. Fair Candy Swap\888. Fair Candy Swap\888. Fair Candy Swap.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jakhongir\Documents\0.LeetCode\888. Fair Candy Swap\888. Fair Candy Swap\888. Fair Candy Swap.cpp(44): warning C4715: 'fairCandySwap': not all control paths return a value
+  888. Fair Candy Swap.vcxproj -> C:\Users\Jakhongir\Documents\0.LeetCode\888. Fair Candy Swap\Debug\888. Fair Candy Swap.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "852. Peak Index in a Mountain Array", "852. Peak Index in a Mountain Array\852. Peak Index in a Mountain Array.vcxproj", "{8231C75A-6B64-4D91-A099-7FC522E0CCA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8231C75A-6B64-4D91-A099-7FC522E0CCA0}.Debug|x64.ActiveCfg = Debug|x64
+		{8231C75A-6B64-4D91-A099-7FC522E0CCA0}.Debug|x64.Build.0 = Debug|x64
+		{8231C75A-6B64-4D91-A099-7FC522E0CCA0}.Debug|x86.ActiveCfg = Debug|Win32
+		{8231C75A-6B64-4D91-A099-7FC522E0CCA0}.Debug|x86.Build.0 = Debug|Win32
+		{8231C75A-6B64-4D91-A099-7FC522E0CCA0}.Release|x64.ActiveCfg = Release|x64
+		{8231C75A-6B64-4D91-A099-7FC522E0CCA0}.Release|x64.Build.0 = Release|x64
+		{8231C75A-6B64-4D91-A099-7FC522E0CCA0}.Release|x86.ActiveCfg = Release|Win32
+		{8231C75A-6B64-4D91-A099-7FC522E0CCA0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12028467-3A4D-4FED-9236-D567D03D1F87}
+	EndGlobalSection
+EndGlobal
